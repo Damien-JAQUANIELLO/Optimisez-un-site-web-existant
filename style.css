@@ -709,6 +709,10 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
 }
+.social a {
+    color: white !important;
+    
+}
 
 h2 {
     font-size: 30px;
@@ -771,6 +775,7 @@ h4 {
 .bgc-white {
     
 }
+
 
 .bgc-dark-slate-blue {
     background-color: #364577;

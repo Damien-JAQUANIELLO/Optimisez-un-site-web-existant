@@ -80,6 +80,7 @@ a:hover {
     background: top no-repeat;
 }
 
+
 .bloc-bg-texture::before {
     content: "";
     background-size: 2px 2px;
@@ -118,6 +119,7 @@ a:hover {
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
 }
+
 
 .d-bloc .a-btn,
 .d-bloc .navbar a,
@@ -751,6 +753,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    height: auto;
+    width: auto;
 }
 
 .portfolio-row {

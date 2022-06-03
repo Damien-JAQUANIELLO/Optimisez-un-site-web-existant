@@ -10,6 +10,12 @@ body {
     width: 100px;
     height: 100px;
 }
+@font-face {
+    font-family: "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    font-style: normal;
+    src: url("fonts/OpenSans-Regular.woff2") format("woff2");
+    font-display: swap;
+  }
 
 a,
 button {
@@ -705,7 +711,7 @@ p {
 
 .h1 {
     font-size: 20px;
-    font-family: "Open Sans" sans-serif;
+    font-family: "Open Sans" ;
 }
 
 .cta-hero {
